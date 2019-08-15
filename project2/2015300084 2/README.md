@@ -6,3 +6,4 @@ javac 2015300084/src/*.java
 ```bash
 java -classpath 2015300084/src/ storageManager inputFile outputFile
 ```
+make sure that you pass all testcases!!
